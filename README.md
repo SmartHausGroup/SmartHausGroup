@@ -1,5 +1,5 @@
 # The SmartHaus Group: Revolutionizing Digital Interactions with AI
-SHG develops voice-first AI applications that continuously learn to manage personal tasks and analyze data for actionable insights in real-world applications.
+The SmartHaus Group develops voice-first AI applications that continuously learn to manage personal tasks and analyze data for actionable insights in real-world applications.
 
 ## Introduction
 In 2024, The SmartHaus Group emerges at the forefront of technological innovation, seamlessly integrating artificial intelligence (AI) with digital solutions to redefine user interactions and business intelligence. Our pioneering products, sAIge, AInstein, and datAInsights, create a synergistic ecosystem that delivers unmatched personalization and insightful analytics, propelling us into the future of AI-driven digital assistance and data monetization.
