@@ -10,7 +10,7 @@ No part of this repository may be used, reproduced, stored in a retrieval system
 
 ## Permissions
 
-Use, reproduction, modification, and distribution of the contents of this repository are strictly prohibited without the explicit written consent of [SHG.
+Use, reproduction, modification, and distribution of the contents of this repository are strictly prohibited without the explicit written consent of SHG.
 
 ## Contact Information
 
