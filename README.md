@@ -10,7 +10,7 @@ VortexAI transforms user interactions with digital systems through innovative AI
 - **Short Overview**: [Watch here](https://youtu.be/WsKHV35QJjc)
 - **Detailed Overview**: [Watch here](https://youtu.be/w4-fSp2IGVE)
 
-## What is an AI Engagement Platform?
+## What is a **Natural Language AI Engagement Platform**?
 An AI engagement platform like VortexAI utilizes artificial intelligence technologies to enhance interactions between users and digital systems. Key features include:
 
 - **Natural Language Processing (NLP):** Enables the understanding and interpretation of human language, providing accurate and contextually relevant responses.
