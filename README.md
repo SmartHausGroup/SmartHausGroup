@@ -18,8 +18,8 @@ A **Natural Language AI Engagement Platform** like **VortexAI** utilizes artific
 - **Multimodal Interaction:** Supports various input and output forms, including voice, text, touch, and gestures, to ensure flexible and accessible interactions.
 - **Voice-First Design:** Prioritizes voice commands to create a hands-free, user-friendly experience.
 
-[What is a Natural Language AI Engagement Platform](docs/What is a Natural Language AI Engagement Platform.md): An in-depth look at the features and benefits of natural language AI engagement platforms, including the key components and unique aspects of VortexAI.
-
+### For detailed information:
+[What is a Natural Language AI Engagement Platform](docs/What%20is%20a%20Natural%20Language%20AI%20Engagement%20Platform.md): An in-depth look at the features and benefits of natural language AI engagement platforms, including the key components and unique aspects of VortexAI.
 
 ## Markets
 
