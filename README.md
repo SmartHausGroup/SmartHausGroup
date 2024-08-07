@@ -31,13 +31,13 @@ This platform foundation allows VortexAI to provide a Natural Language AI Engage
 
 ## Document Repository
 
-- **About VortexAI.md**
-- **About sAIge.md**
-- **About AIlicia.md**
-- **About AInstein.md**
-- **About datAInsights.md**
-- **VortexAI GTM Framework: Definitions and Examples**
-- **What is a Natural Language AI Engagement Platform**
+- [About VortexAI.md](docs/About%20VortexAI.md)
+- [About sAIge.md](docs/About%20sAIge.md)
+- [About AIlicia.md](docs/About%20AIlicia.md)
+- [About AInstein.md](docs/About%20AInstein.md)
+- [About datAInsights.md](docs/About%20datAInsights.md)
+- [VortexAI GTM Framework: Definitions and Examples](docs/VortexAI%20GTM%20Framework:%20Definitions%20and%20Examples.md)
+- [What is a Natural Language AI Engagement Platform](docs/What%20is%20a%20Natural%20Language%20AI%20Engagement%20Platform.md)
 
 ## Repository Overview
 
